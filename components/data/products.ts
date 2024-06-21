@@ -60,3 +60,43 @@ export const productList = [
         "reviews": 40
     }
 ]
+
+export const smallProductListData = [
+    {
+        "product_id": 1,
+        "name": "Organic Apples",
+        "category": "Fruits",
+        "description": "Fresh and crisp organic apples, perfect for a healthy snack.",
+        "price": 3.99,
+        "currency": "USD",
+        "quantity_available": 150,
+        "image_url": "/images/products/product1.png",
+        "rating": 4.5,
+        "reviews": 20
+    },
+    {
+        "product_id": 2,
+        "name": "Bananas",
+        "category": "Fruits",
+        "description": "Ripe and sweet bananas, great for breakfast or a quick energy boost.",
+        "price": 1.29,
+        "currency": "USD",
+        "quantity_available": 200,
+        "image_url": "/images/products/product2.png",
+        "rating": 4.7,
+        "reviews": 45
+    },
+    {
+        "product_id": 3,
+        "name": "Carrots",
+        "category": "Vegetables",
+        "description": "Crunchy and nutritious carrots, perfect for salads and cooking.",
+        "price": 2.49,
+        "currency": "USD",
+        "quantity_available": 100,
+        "image_url": "/images/products/product3.png",
+        "rating": 4.3,
+        "reviews": 30
+    }
+]
+
